@@ -3,7 +3,7 @@
 Four data files:
     
 - main file:
-  - global-co2-fossil-plus-land-use.csv from Our [World in Data](https://ourworldindata.org/co2-data-update-2022) (OWID)
+  - global-co2-fossil-plus-land-use.csv a copy from Our [World in Data](https://ourworldindata.org/co2-data-update-2022) (OWID)
 - Derived files are subsets created from the main OWID file
   - continents_df.csv
   - countries_df.csv
